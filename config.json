@@ -1,0 +1,7 @@
+{
+	"interactive": true,
+	"remote": "nschonni/pulley-testing",
+	"repos": {
+		"nschonni/pulley-testing": true
+	}
+}
