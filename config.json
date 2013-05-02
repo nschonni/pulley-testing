@@ -1,7 +1,7 @@
 {
-	"interactive": true,
+	"interactive": false,
 	"remote": "upstream",
 	"repos": {
-		"nschonni/pulley-testing": true
+		"nschonni/pulley-testing": false
 	}
 }
